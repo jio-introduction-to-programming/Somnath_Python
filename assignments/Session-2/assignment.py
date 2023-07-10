@@ -1,6 +1,6 @@
 def convert_to_int(x):
     '''
-        Task-1 Convert x to int and return the result 
+        Task-1 Convert x to integer and return the result 
     '''
     result = int(x) # write your code here ! 
     return result 
