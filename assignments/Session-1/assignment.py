@@ -1,8 +1,8 @@
 
 def add_one_to_number(x):
     '''
-        Task-1 Write the code below to add 1 to a number 
-        and remove the pass statement 
+        Task-1 Write the code below to add 1 to a number and
+        remove the pass statement 
     '''
     result = x + 1  # write your code here and replace None with the actual value 
     return result 

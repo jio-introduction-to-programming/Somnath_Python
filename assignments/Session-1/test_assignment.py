@@ -37,7 +37,7 @@ def test_divide_x_by_y_numeric():
 
 def test_remainder_x_by_y():
     assert remainder_x_by_y(10, 2) == 0
-    assert remainder_x_by_y(0, 5) == 0
+    assert remainder_x_by_y(0, 8) == 0
     assert remainder_x_by_y(27, 4) == 3 
     assert remainder_x_by_y(987, 10) == 7 
     assert remainder_x_by_y(93, 12) == 9 
