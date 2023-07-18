@@ -5,7 +5,7 @@ from assignment import (convert_to_int, find_max_of_numbers, get_char_from_num,
 def test_convert_to_int():
     assert convert_to_int('5') == 5
     assert convert_to_int('0') == 0
-    assert convert_to_int('-3') == -3
+    assert convert_to_int('-8') == -8
 
 def test_find_max_of_numbers():
     assert find_max_of_numbers([1, 2, 3, 4, 5]) == 5
